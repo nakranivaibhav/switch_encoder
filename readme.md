@@ -10,7 +10,7 @@ Welcome to this repository where I have implemented a Encoder only Transformer w
 - Custom tokenizer is WIP
 - To keep things speedy for testing, I only used 1% of the data for training and the next 0.5% for validation.
 
-## Model Architecture 🏗
+## Model Architecture 
 
 Started with a standard implementation of the Transformer encoder, just to get a feel for things. It's got all the usual components:
 
