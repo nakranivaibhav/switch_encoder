@@ -1,4 +1,4 @@
-# Transformer Model with Switch FFN 
+# Encoder Only Switch Transformer (MoE)
 
 Welcome to this repository where I have implemented a Encoder only Transformer with a Switch Feed Forward Network (FFN) layer!
 
